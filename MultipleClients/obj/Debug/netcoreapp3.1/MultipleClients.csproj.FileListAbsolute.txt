@@ -1,0 +1,14 @@
+C:\temp\asaf\assaf1\MultipleClients\obj\Debug\netcoreapp3.1\MultipleClients.csproj.AssemblyReference.cache
+C:\temp\asaf\assaf1\MultipleClients\obj\Debug\netcoreapp3.1\MultipleClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\asaf\assaf1\MultipleClients\obj\Debug\netcoreapp3.1\MultipleClients.AssemblyInfoInputs.cache
+C:\temp\asaf\assaf1\MultipleClients\obj\Debug\netcoreapp3.1\MultipleClients.AssemblyInfo.cs
+C:\temp\asaf\assaf1\MultipleClients\obj\Debug\netcoreapp3.1\MultipleClients.csproj.CoreCompileInputs.cache
+C:\temp\asaf\assaf1\MultipleClients\bin\Debug\netcoreapp3.1\MultipleClients.exe
+C:\temp\asaf\assaf1\MultipleClients\bin\Debug\netcoreapp3.1\MultipleClients.deps.json
+C:\temp\asaf\assaf1\MultipleClients\bin\Debug\netcoreapp3.1\MultipleClients.runtimeconfig.json
+C:\temp\asaf\assaf1\MultipleClients\bin\Debug\netcoreapp3.1\MultipleClients.runtimeconfig.dev.json
+C:\temp\asaf\assaf1\MultipleClients\bin\Debug\netcoreapp3.1\MultipleClients.dll
+C:\temp\asaf\assaf1\MultipleClients\bin\Debug\netcoreapp3.1\MultipleClients.pdb
+C:\temp\asaf\assaf1\MultipleClients\obj\Debug\netcoreapp3.1\MultipleClients.dll
+C:\temp\asaf\assaf1\MultipleClients\obj\Debug\netcoreapp3.1\MultipleClients.pdb
+C:\temp\asaf\assaf1\MultipleClients\obj\Debug\netcoreapp3.1\MultipleClients.genruntimeconfig.cache

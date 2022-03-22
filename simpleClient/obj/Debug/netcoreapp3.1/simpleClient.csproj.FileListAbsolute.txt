@@ -1,0 +1,14 @@
+C:\temp\asaf\assaf1\simpleClient\bin\Debug\netcoreapp3.1\simpleClient.exe
+C:\temp\asaf\assaf1\simpleClient\bin\Debug\netcoreapp3.1\simpleClient.deps.json
+C:\temp\asaf\assaf1\simpleClient\bin\Debug\netcoreapp3.1\simpleClient.runtimeconfig.json
+C:\temp\asaf\assaf1\simpleClient\bin\Debug\netcoreapp3.1\simpleClient.runtimeconfig.dev.json
+C:\temp\asaf\assaf1\simpleClient\bin\Debug\netcoreapp3.1\simpleClient.dll
+C:\temp\asaf\assaf1\simpleClient\bin\Debug\netcoreapp3.1\simpleClient.pdb
+C:\temp\asaf\assaf1\simpleClient\obj\Debug\netcoreapp3.1\simpleClient.csproj.AssemblyReference.cache
+C:\temp\asaf\assaf1\simpleClient\obj\Debug\netcoreapp3.1\simpleClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\asaf\assaf1\simpleClient\obj\Debug\netcoreapp3.1\simpleClient.AssemblyInfoInputs.cache
+C:\temp\asaf\assaf1\simpleClient\obj\Debug\netcoreapp3.1\simpleClient.AssemblyInfo.cs
+C:\temp\asaf\assaf1\simpleClient\obj\Debug\netcoreapp3.1\simpleClient.csproj.CoreCompileInputs.cache
+C:\temp\asaf\assaf1\simpleClient\obj\Debug\netcoreapp3.1\simpleClient.dll
+C:\temp\asaf\assaf1\simpleClient\obj\Debug\netcoreapp3.1\simpleClient.pdb
+C:\temp\asaf\assaf1\simpleClient\obj\Debug\netcoreapp3.1\simpleClient.genruntimeconfig.cache
