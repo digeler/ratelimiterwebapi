@@ -8,5 +8,10 @@
     <PackageReference Include="AspNetCoreRateLimit" Version="4.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Midleware\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 
 </Project>
